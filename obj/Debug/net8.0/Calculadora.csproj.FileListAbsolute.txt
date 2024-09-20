@@ -12,3 +12,4 @@ D:\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
 D:\Calculadora\obj\Debug\net8.0\Calculadora.pdb
 D:\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
 D:\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
+D:\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json

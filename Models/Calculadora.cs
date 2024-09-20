@@ -54,5 +54,11 @@ namespace CalculadoraCsharp.Models
             double tangente = Math.Tan(radiano);
             Console.WriteLine($"A tangente de {angulo} é {Math.Round(tangente, 4)}");
         }
+
+        public void RaizQuadrada(double x)
+        {
+            double raiz = Math.Sqrt(x);
+            Console.WriteLine($"A raiz quadrada de {x} é = {raiz}");
+        }
     }
 }
